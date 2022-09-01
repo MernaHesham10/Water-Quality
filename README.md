@@ -19,10 +19,10 @@ The dataset contains water quality metrics for 3276 different water bodies.
 
 #### Importing Dataset
 ```
-df=pd.read_csv('water_potability.csv')
+df = pd.read_csv('water_potability.csv')
 ```
 
-## 📈 Models used for training
+# Models used for training
 
 - **Logistic Regression** - Logistic Regression is named for the function used at the core of the method, the logistic function.
     
